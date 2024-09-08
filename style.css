@@ -62,7 +62,7 @@ from input{
     width: 6rem;
     border-radius: 0.5rem;
     border:1px solid lightgray;
-    background-color: coral;
+    background-color: fff;
 }
 
 .select-container select{
